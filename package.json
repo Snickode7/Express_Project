@@ -1,0 +1,22 @@
+{
+  "name": "express_project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Snickode7/Express_Project.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Snickode7/Express_Project/issues"
+  },
+  "homepage": "https://github.com/Snickode7/Express_Project#readme",
+  "dependencies": {
+    "express": "^4.15.3"
+  }
+}
